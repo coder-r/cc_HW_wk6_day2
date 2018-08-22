@@ -1,0 +1,15 @@
+{
+  "name": "cc_hw_wk6_day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC"
+}
